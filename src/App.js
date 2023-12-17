@@ -10,8 +10,8 @@ function App() {
     alert("please enter amount");
     }else{
       var options = {
-        key: "rzp_test_ffSb2yIkIflJH9",
-        key_secret:"iExGzM7nCvTIo41Rk4iV9kye",
+        key: "rzp_test_Ogkw1kAXpEv091",
+        key_secret:"nGcPOGi4AjhRMcs0VR3WTNvV",
         amount: amount *100,
         currency:"INR",
         name:"STARTUP_PROJECTS",
